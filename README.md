@@ -1,7 +1,7 @@
 # hotel-reservation
 A hotel reservation system made using WinForms on C#.
 
-Members involved:
-Louwenn Suarez (system developer)
-Carl Vincent Deguma (system tester)
+Members involved:<br/>
+Louwenn Suarez (system developer)<br/>
+Carl Vincent Deguma (system tester)<br/>
 Amiel Ayuso (system tester)
